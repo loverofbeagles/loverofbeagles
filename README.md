@@ -1,6 +1,9 @@
 i use arch linux, awesomewm, and neovim
+
 c++ is my favorite langauge to write in
+
 noob at c++
+
 interested in dsp programing
 
 personal:
